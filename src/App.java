@@ -13,7 +13,7 @@ public class App {
             System.out.println("\n-------- MENU --------");
             System.out.println("1 - Add Contact");
             System.out.println("2 - My Contacts");
-            System.out.println("3 - Leave");
+            System.out.println("3 - Leave\n");
             System.out.print("Choose an option: ");
 
             try {
