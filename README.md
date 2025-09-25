@@ -1,18 +1,10 @@
-## Getting Started
+## Contact Manager (Gerenciador de Contatos)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p> Menu de Opções</p>
+<img width="200" height="95" alt="image" src="https://github.com/user-attachments/assets/74a003ef-6b7f-4823-b578-d27370fd7000" />
 
-## Folder Structure
+<p>Adicionando Contato</p>
+<img width="234" height="121" alt="image" src="https://github.com/user-attachments/assets/7f9b3955-c336-4058-8453-0d151af88b18" />
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<p>Lista dos Contatos Adicionados</p>
+<img width="317" height="193" alt="image" src="https://github.com/user-attachments/assets/7cae05a7-d524-4e30-b8f8-5e7ba4a7497a" />
